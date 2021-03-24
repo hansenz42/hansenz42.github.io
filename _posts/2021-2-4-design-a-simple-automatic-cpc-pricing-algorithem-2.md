@@ -9,6 +9,7 @@ tags:
 - 推广通
 - 广告
 pin: true
+math: true
 typora-root-url: ../
 ---
 
