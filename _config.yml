@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+# This is the config file of Jekyll
+
+theme: jekyll-theme-minima
 title: Hancheng's homepage
 description: Bookmark this to keep an eye on my project updates!
