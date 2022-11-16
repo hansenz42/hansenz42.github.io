@@ -6,6 +6,7 @@ description: "计算机科学的狂热分子"
 
 # Navigate Links
 header_pages:
+  - home.md
   - about.md
 
 # Author MetaData
