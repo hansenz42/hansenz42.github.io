@@ -4,7 +4,8 @@ description: "计算机科学的狂热分子"
 
 author:
   name: 郑翰成
-  email: "hansenzh11@hotmail.com"
+
+email: "hansenzh11@hotmail.com"
 
 header_pages:
   - index.md
