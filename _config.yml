@@ -1,15 +1,17 @@
-# This is the config file of Jekyll
-
 theme: minima
 title: "Hansen 的博客"
 description: "计算机科学的狂热分子"
 
-# Navigate Links
+# 导航栏
 header_pages:
   - home.md
   - about.md
 
-# Author MetaData
+# 作者信息
 author:
   name: 郑翰成
   email: "hansenzh11@hotmail.com"
+
+# 主题配置
+minima:
+  skin: dark
