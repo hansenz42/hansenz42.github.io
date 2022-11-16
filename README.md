@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "自我介绍"
-permalink: /about
+title: "主页"
+permalink: /
 ---
 
 # Hansen 的小世界
