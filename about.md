@@ -1,7 +1,8 @@
+---
 layout: page
 title: "自我介绍"
 permalink: /about
-
+---
 
 # About Me
 
