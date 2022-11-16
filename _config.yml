@@ -1,5 +1,14 @@
 # This is the config file of Jekyll
 
 theme: minima
-title: "Hancheng's Blog"
+title: "Hansen 的博客"
 description: "Curious to Computer Science!"
+
+# Navigate Links
+header_pages:
+  - about.md
+
+# Author MetaData
+author:
+  - name: 郑翰成
+  - email: "hansen.zheng@hotmail.com"
