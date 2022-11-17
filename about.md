@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about
 ---
 
-Full Name: Hancheng Zheng 郑翰成
+Name: Hancheng Zheng 郑翰成
 
 Birth: 1993.09
 
