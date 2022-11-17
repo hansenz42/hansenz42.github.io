@@ -1,6 +1,6 @@
 
 title: "Hansen 的博客"
-description: "计算机科学的狂热分子"
+description: "欢迎来到我的小世界，我喜欢计算机技术，是一名志向远大的程序员。"
 
 author: 郑翰成
 
@@ -12,6 +12,6 @@ header_pages:
 
 minima:
   skin: dark
-  date_format: "%b %-d, %Y"
+  date_format: "%Y-%m-%d"
 
 theme: minima
