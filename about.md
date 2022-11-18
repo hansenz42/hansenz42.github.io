@@ -8,7 +8,7 @@ Hancheng Zheng 郑翰成
 
 Birth: 1993.09
 
-Love Computer Science and Data Science. Always want to explore new knowledge.
+Love Computer Science and Data Science. Always passionate to explore new knowledge.
 
 喜爱探索计算机技术，喜欢学习新知。得到 App 忠实用户，学分 800 +。
 
@@ -16,9 +16,9 @@ Love Computer Science and Data Science. Always want to explore new knowledge.
 
 # EDUCATION 教育经历
 
-2014 - 2016 Michigan State University, Computer Science Engineering, Master
+2014 - 2016 Michigan State University, Computer Science Engineering, Master. 密歇根州立大学计算机科学和工程，硕士
 
-2011 - 2015 Sichuan University, Software Engineering, Undergraduate
+2011 - 2015 Sichuan University, Software Engineering, Undergraduate. 四川大学软件工程，本科
 
 # CAREER 职业经历
 
@@ -28,7 +28,7 @@ Love Computer Science and Data Science. Always want to explore new knowledge.
 - Databases: MySQL Linux
 - Management: Lead 10 people group
 
-# FIND ME 在其他平台找到我
+# FIND ME AT 我在其他平台的足迹
 
 [得到](https://m.igetget.com/native/mine/account#/user/detail?enId=KDyZ0k2Ngo48Y2Wqn31lpzr3bdBRLe)
 
