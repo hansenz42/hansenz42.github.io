@@ -30,7 +30,7 @@ Love Computer Science and Data Science. Always want to explore new knowledge.
 
 # FIND ME 在其他平台找到我
 
-得到 App 学号：171102772058
+[得到](https://m.igetget.com/native/mine/account#/user/detail?enId=KDyZ0k2Ngo48Y2Wqn31lpzr3bdBRLe)
 
 [Kaggle](https://www.kaggle.com/rushkiller)
 
