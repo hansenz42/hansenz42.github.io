@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: "ABOUT ME"
 permalink: /about
 ---
 
@@ -27,3 +27,10 @@ Love Computer Science and Data Science. Always want to explore new knowledge.
 - Software Developing: Python SpringBoot Java TS/JS
 - Databases: MySQL Linux
 - Management: Lead 10 people group
+
+# FIND ME 在其他平台找到我
+
+得到 App 学号：171102772058
+[Kaggle](https://www.kaggle.com/rushkiller)
+[github](https://github.com/hansenz42)
+[知乎](https://www.zhihu.com/people/qian-qian-mei-xiang-dao)
