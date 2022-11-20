@@ -16,9 +16,13 @@ Love Computer Science and Data Science. Always passionate to explore new knowled
 
 # EDUCATION 教育经历
 
-2014 - 2016 Michigan State University, Computer Science Engineering, Master. 密歇根州立大学计算机科学和工程，硕士
+2014 - 2016 Michigan State University, Computer Science Engineering, Master. 
 
-2011 - 2015 Sichuan University, Software Engineering, Undergraduate. 四川大学软件工程，本科
+密歇根州立大学计算机科学和工程，硕士
+
+2011 - 2015 Sichuan University, Software Engineering, Undergraduate. 
+
+四川大学软件工程，本科
 
 # CAREER 职业经历
 
